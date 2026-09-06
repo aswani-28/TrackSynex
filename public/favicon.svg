@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="TRACKSYNEX train favicon">
+  <defs>
+    <linearGradient id="favTrainBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </linearGradient>
+    <linearGradient id="favTrainHull" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#favTrainBg)"/>
+  <!-- Railway tracks -->
+  <path d="M6 52h52M6 56h52" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" opacity="0.85"/>
+  <path d="M12 50v8M22 50v8M32 50v8M42 50v8M52 50v8" stroke="#38bdf8" stroke-width="1.4" opacity="0.45"/>
+  <!-- Bullet train profile -->
+  <path d="M8 20h30c7 0 13 3 17 9l5 15H6l2-7v-17Z" fill="url(#favTrainHull)"/>
+  <path d="M12 24h7l-1 5h-7l1-5ZM23 24h7l-1 5h-7l1-5ZM34 24h6c3 0 6 2 8 5l1 1h-16l1-6Z" fill="#e0f2fe"/>
+  <path d="M5 44h55l-2 4H7l-2-4Z" fill="#0f172a"/>
+  <circle cx="56" cy="42" r="2.2" fill="#ffffff"/>
+  <circle cx="16" cy="48" r="2.5" fill="#38bdf8"/>
+  <circle cx="46" cy="48" r="2.5" fill="#38bdf8"/>
+</svg>
